@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167634005906",
+    "project_id": "mobiledevchallengexd",
+    "storage_bucket": "mobiledevchallengexd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167634005906:android:afb88d2d2e3c19be8ddb4b",
+        "android_client_info": {
+          "package_name": "com.example.mobiledevchallenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjtjNjb3ForRvHVRrCTsd19kxJXjCPATM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
