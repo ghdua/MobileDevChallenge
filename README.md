@@ -19,16 +19,16 @@
 - testImplementation("org.mockito:mockito-core:4.6.1")
 
 ## Pantallas
-![Pantalla Login 1](/assets/images/Login1.jpg")
-![Pantalla Login 2](/assets/images/Login2.jpg")
-![Pantalla Login 3](/assets/images/Login3.jpg")
-![Pantalla Login 4](/assets/images/Login4.jpg")
-![Pantalla Login 5](/assets/images/Login5.jpg")
-![Pantalla Login 6](/assets/images/Login6.jpg")
-![Pantalla Home 1](/assets/images/Home1.jpg")
-![Pantalla Home 2](/assets/images/Home2.jpg")
-![Pantalla Home 3](/assets/images/Home3.jpg")
-![Pantalla Home 4](/assets/images/Home4.jpg")
+![Pantalla Login 1](/assets/images/Login1.jpg)
+![Pantalla Login 2](/assets/images/Login2.jpg)
+![Pantalla Login 3](/assets/images/Login3.jpg)
+![Pantalla Login 4](/assets/images/Login4.jpg)
+![Pantalla Login 5](/assets/images/Login5.jpg)
+![Pantalla Login 6](/assets/images/Login6.jpg)
+![Pantalla Home 1](/assets/images/Home1.jpg)
+![Pantalla Home 2](/assets/images/Home2.jpg)
+![Pantalla Home 3](/assets/images/Home3.jpg)
+![Pantalla Home 4](/assets/images/Home4.jpg)
 
 ## Pruebas unitarias
 Contiene pruebas unitarias para la clase modelo que representa los datos ingresado en la bd firebase, la clase se llama Client, dentro del paquete Model, asimismo, contiene una prueba unitaria para la clase de RealtimeManager
